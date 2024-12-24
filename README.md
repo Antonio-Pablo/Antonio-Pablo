@@ -116,7 +116,7 @@ Desenvolvimento de software, robótica, segurança da informação e ensino de t
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Pablo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
